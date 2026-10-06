@@ -1,0 +1,7 @@
+#!/bin/sh
+
+set -eu
+
+/usr/bin/killall coreaudiod 2>/dev/null || true
+/bin/echo "Hearly Audio Driver installed; Core Audio is restarting."
+exit 0

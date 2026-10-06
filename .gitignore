@@ -1,0 +1,39 @@
+# macOS & Finder
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# SwiftPM & Xcode Build Artifacts
+macos/.build/
+macos/.build-*/
+macos/.build-tmp/
+macos/.build-xcode/
+macos/.swiftpm/
+macos/build/
+macos/macos-snapshots/
+macos/[0-9]*.*[0-9]*/
+
+# Environment / Secrets (Never commit production credentials)
+.env
+.env.*
+*.local
+macos/Resources/Backend.json
+!macos/Resources/Backend.example.json
+
+# IDE
+.vscode/*
+!.vscode/settings.json
+.idea/
+
+# Logs
+*.log
+
+# Generated release packages and film exports
+release/
+.build-reference/
+**/.venv/
+**/__pycache__/
+**/node_modules/
+ad*/output/
+ad*/preview/

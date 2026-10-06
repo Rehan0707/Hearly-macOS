@@ -1,0 +1,43 @@
+1
+00:00:00,600 --> 00:00:02,983
+You've got something worth saying.
+
+2
+00:00:04,400 --> 00:00:10,283
+An idea. A first impression. A moment to connect.
+
+3
+00:00:10,700 --> 00:00:14,056
+But life doesn't pause when you unmute.
+
+4
+00:00:15,000 --> 00:00:19,993
+Meet Hearly. AI between your microphone and your meeting.
+
+5
+00:00:20,400 --> 00:00:23,792
+Train your voice, right on your Mac.
+
+6
+00:00:24,100 --> 00:00:27,684
+Hearly learns what makes you sound like you.
+
+7
+00:00:28,300 --> 00:00:33,085
+Then choose Hearly Microphone in your meeting's audio settings.
+
+8
+00:00:34,000 --> 00:00:40,498
+As you speak, Hearly separates your voice from typing, café noise, and conversations nearby.
+
+9
+00:00:41,500 --> 00:00:45,690
+Your voice moves forward. The distractions stay behind.
+
+10
+00:00:46,600 --> 00:00:52,081
+So you can share the idea. Finish the thought. Be there.
+
+11
+00:00:53,400 --> 00:00:57,662
+Hearly. Be heard. Be you.

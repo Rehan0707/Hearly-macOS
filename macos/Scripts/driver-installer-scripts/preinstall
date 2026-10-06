@@ -1,0 +1,13 @@
+#!/bin/sh
+
+set -eu
+
+DESTINATION="/Library/Audio/Plug-Ins/HAL/HearlyAudio.driver"
+if [ -e "$DESTINATION" ]; then
+  BACKUP_ROOT="$(/usr/bin/mktemp -d "/Library/Audio/Hearly-driver-backup.XXXXXX")"
+  /usr/bin/ditto "$DESTINATION" "$BACKUP_ROOT/HearlyAudio.driver"
+  /usr/sbin/chown -R root:wheel "$BACKUP_ROOT/HearlyAudio.driver"
+  /bin/echo "Previous Hearly driver backed up to $BACKUP_ROOT/HearlyAudio.driver"
+fi
+
+exit 0

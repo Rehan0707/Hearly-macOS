@@ -1,0 +1,1 @@
+{"name":"hearly-product-film","version":"1.0.0","private":true,"description":"60-second Hearly motion graphics film","scripts":{"preview":"node src/render.cjs preview","render":"node src/render.cjs render"},"dependencies":{"playwright":"^1.55.0","sharp":"^0.34.0"}}

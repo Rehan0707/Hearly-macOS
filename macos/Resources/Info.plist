@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Hearly</string>
+	<key>CFBundleExecutable</key>
+	<string>HearlyMac</string>
+	<key>CFBundleIdentifier</key>
+	<string>live.hearely.mac</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Hearly</string>
+	<key>CFBundleIconFile</key>
+	<string>Hearly.icns</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>13.0</string>
+	<key>LSUIElement</key>
+	<false/>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Hearly needs microphone access to remove background noise before audio reaches your meeting app.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Hearly uses on-device speech recognition to check the phrases you read during voice enrollment and to create transcripts when you enable them.</string>
+	<key>CFBundleURLTypes</key>
+	<array><dict><key>CFBundleURLName</key><string>Hearly Sign In</string><key>CFBundleURLSchemes</key><array><string>hearly</string></array></dict></array>
+</dict>
+</plist>

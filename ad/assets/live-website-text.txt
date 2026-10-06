@@ -1,0 +1,148 @@
+Hearly
+Product
+Use Cases
+Pricing
+Blog
+Resources
+Join Waitlist
+Hearly
+
+A privacy-first macOS microphone that keeps your voice clearer before it reaches Meet, Zoom, Teams, or any call app.
+
+Join Waitlist
+Explore use cases
+HEARLY IN ACTION
+Unmute
+Capabilities
+Everything you need. Nothing you don't.
+
+Powerful tools designed for the next generation of voice-first applications and intelligent agents.
+
+Virtual Microphone
+
+Select Hearly Microphone inside your meeting app and keep the audio path independent of browser-specific integrations.
+
+Local Audio Path
+
+Capture from the microphone, process locally, and deliver audio through a dedicated macOS Core Audio device.
+
+Menu Bar Controls
+
+Start, stop, select an input device, inspect the transport, and keep Hearly out of the way while you work.
+
+Local by Default
+
+The macOS track is designed around local processing, opt-in telemetry, and no raw microphone audio leaving the Mac.
+
+Apple Silicon First
+
+The first release targets Apple-silicon Macs so the audio engine and model runtime can be validated on one reliable platform.
+
+Clear Release Path
+
+Driver validation, native voice isolation, signing, notarization, and clean-machine setup are the gates before public download.
+
+Voice Enrollment
+Smart voice enrollment. Zero friction.
+
+Identify and enroll speakers with high-fidelity analysis. Every voice is captured and attributed correctly in real-time.
+
+Learn more
+Hearly
+LIVE
+Enrolling Speaker
+
+Say "Hello Hearly" to start the voice identification process.
+
+Confirm Voice
+Hearly
+LIVE
+Recent Meetings
+Weekly Sync
+2m ago
+•
+4
+Analyzed
+Product Design
+1h ago
+•
+3
+Analyzed
+Client Call
+Yesterday
+•
+2
+Analyzed
+Engineering Sync
+2 days ago
+•
+6
+Analyzed
+Meeting Intelligence
+Intelligent meeting history. Always in sync.
+
+Browse past meetings with AI-generated summaries and searchable transcripts. Never miss a decision again.
+
+Learn more
+Flexible plans. Prices revealed soon.
+
+Hearly is moving toward an Apple-silicon macOS release. Join the waitlist for launch updates while the virtual microphone, native model, and signed installer complete validation.
+
+Pricing Unlocks at Official Launch — Join Waitlist for Early Access
+Basic
+
+For individuals exploring voice intelligence.
+
+Revealing Soon
+Prices announced at official launch
+Join Waitlist for Basic
+10 hours of transcription/month
+Basic speaker identification
+Standard latency (~1s)
+Community support
+Pro
+
+For professionals and power users.
+
+Revealing Soon
+Prices announced at official launch
+Join Waitlist for Pro
+Unlimited transcription
+Real-time emotion detection
+AI meeting summaries & action items
+Sub-200ms ultra-low latency
+Priority email support
+Enterprise
+
+For large teams requiring strict security.
+
+Revealing Soon
+Prices announced at official launch
+Join Waitlist for Enterprise
+Custom neural models
+SSO & SAML integration
+Dedicated VPC deployment
+24/7 priority phone support
+Custom SLA
+Get ready for Hearly on macOS Hearly
+Join Waitlist — Get Early Access
+View Documentation
+
+The signed Apple-silicon download will appear here after release validation is complete.
+
+Understand every conversation
+Join Waitlist
+Product
+Docs
+Changelog
+Press
+Releases
+Blog
+Pricing
+Use Cases
+Hearly
+Hearly
+About Hearly
+Products
+Privacy
+Terms
